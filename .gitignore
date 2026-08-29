@@ -19,7 +19,7 @@ env/
 feedback_log.json
 
 # Modelos pesados
-*.pt
+# *.pt
 *.pth
 *.onnx
 
